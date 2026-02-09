@@ -1,0 +1,11 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "MiddleEarthShadowofMordor",
+  "creator": "commanderdot",
+  "filler_item_name": "Broken Rune",
+  "starting_items": [{
+      "items": [
+        "Wraith Stun"
+      ]
+    }]
+}

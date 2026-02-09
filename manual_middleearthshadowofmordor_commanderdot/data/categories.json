@@ -1,0 +1,22 @@
+{
+    "Lord of the Hunt": {
+     "yaml_option": [
+      "Lord_of_the_Hunt_Enabled"]
+    },
+    "The Bright Lord": {
+     "yaml_option": [
+      "The_Bright_Lord_Enabled"]
+    },
+    "Trials of War": {
+     "yaml_option": [
+      "Trials_of_War_Enabled"]
+    },
+    "Survival Challenges": {
+     "yaml_option": [
+      "Survival_Challenges_Enabled"]
+    },
+    "Hunting Challenges": {
+     "yaml_option": [
+      "Hunting_Challenges_Enabled"]
+    }
+}

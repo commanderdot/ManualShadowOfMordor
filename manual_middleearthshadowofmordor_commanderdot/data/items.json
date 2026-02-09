@@ -1,0 +1,572 @@
+[
+  {
+    "count": 14,
+    "name": "Progressive Main Mission",
+    "category": ["Missions"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Black Captain",
+    "category": ["Missions"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mordor in Flames",
+    "category": ["Missions"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wraith Stun",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Poison",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow Strike",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wraith Flash",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Caragor Hunter",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Graug Hunter",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Brand",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Elven Swiftness",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Detonate",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ride Caragors",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Execution",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Impact",
+    "category": [
+      "Ability"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Strike From Above",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Critical Strike",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Last Chance Finisher",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Throwing Daggers",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Brutalize",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Swift Finisher",
+    "category": [
+      "Ability"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Vault Stun",
+    "category": [
+      "Ability"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Brace of Daggers",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Shoulder Charge",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blade Master",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Resilience",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Death Threat",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Critical Strike 2",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Flame of Vengeance",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Double Charge",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pin In Place",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stealth Drain",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lethal Shadow Strike",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wraith Blast",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Combat Drain",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Arrow",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wraith Finisher",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow Mount",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow Strike Chain",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Quick Draw",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Wraith Burn",
+    "category": [
+      "Ability"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dispatch",
+    "category": [
+      "Ability"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sword Legends",
+    "category": ["Missions"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bow Legends",
+    "category": ["Missions"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dagger Legends",
+    "category": ["Missions"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Outcast Rescue Missions",
+    "category": ["Missions"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Ithildin",
+    "category": ["Missions"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Artifacts",
+    "category": ["Missions"],
+    "progression": true
+  },
+  {
+    "count": 5,
+    "name": "Progressive Max Health Up",
+    "category": ["Attributes"],
+    "useful": true
+  },
+  {
+    "count": 5,
+    "name": "Progressive Max Elf-Shot Up",
+    "category": ["Attributes"],
+    "filler": true
+  },
+  {
+    "count": 5,
+    "name": "Progressive Max Focus Up",
+    "category": ["Attributes"],
+    "filler": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Sword Rune Slot",
+    "category": ["Attributes"],
+    "useful": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Bow Rune Slot",
+    "category": ["Attributes"],
+    "useful": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Dagger Rune Slot",
+    "category": ["Attributes"],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Storm of Urfael",
+    "category": ["Attributes"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Flame of Azkar",
+    "category": ["Attributes"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Shadow of Acharn",
+    "category": ["Attributes"],
+    "filler": true
+  },
+  {
+    "count": 52,
+    "name": "An Orc",
+    "category": ["Filler"],
+    "filler": true
+  },
+  {
+    "count": 20,
+    "name": "An Orc Captain",
+    "category": ["Filler"],
+    "filler": true
+  },
+  {
+    "count": 5,
+    "name": "An Orc Warchief",
+    "category": ["Filler"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lord of the Hunt Unlock",
+    "category": ["Lord of the Hunt"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Torvin's Journals",
+    "category": ["Lord of the Hunt"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Legends of the Hunter",
+    "category": ["Lord of the Hunt"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Beastmaster Warchief Quests",
+    "category": ["Lord of the Hunt"],
+    "progression": true
+  },
+  {
+    "count": 17,
+    "name": "A Ghul",
+    "category": ["Lord of the Hunt"],
+    "filler": true
+  },
+  {
+    "count": 4,
+    "name": "A Caragor",
+    "category": ["Lord of the Hunt"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "The Bright Lord Unlock",
+    "category": ["The Bright Lord"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock War Letters",
+    "category": ["The Bright Lord"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stronghold Captures",
+    "category": ["The Bright Lord"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "One Ring Missions",
+    "category": ["The Bright Lord"],
+    "progression": true
+  },
+  {
+    "count": 15,
+    "name": "Branded Orc",
+    "category": ["The Bright Lord"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Test of Speed",
+    "category": ["Trials of War"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Test of Power",
+    "category": ["Trials of War"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Test of Wisdom",
+    "category": ["Trials of War"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Endless Challenge",
+    "category": ["Trials of War"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Test of the Wild",
+    "category": ["Trials of War", "Lord of the Hunt"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Test of the Ring",
+    "category": ["Trials of War", "The Bright Lord"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Test of Defiance",
+    "category": ["Trials of War"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Survival Challenges",
+    "category": ["Survival Challenges"],
+    "progression": true
+  },
+  {
+    "count": 9,
+    "name": "Useless Plant",
+    "category": ["Survival Challenges"],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hunting Challenges",
+    "category": ["Hunting Challenges"],
+    "progression": true
+  },
+  {
+    "count": 9,
+    "name": "Broken Arrow",
+    "category": ["Hunting Challenges"],
+    "filler": true
+  }
+]

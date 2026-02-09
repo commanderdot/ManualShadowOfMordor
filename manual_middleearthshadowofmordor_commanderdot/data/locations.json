@@ -1,0 +1,1820 @@
+[
+  {
+    "name": "Prologue",
+    "region": "Prologue",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Slaver",
+    "region": "The Slaver",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "An Interested Party",
+    "region": "An Interested Party",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Spirit of Mordor",
+    "region": "The Spirit of Mordor",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shattered Memories",
+    "region": "Shattered Memories",
+    "category": [
+      "Quests"
+    ],
+    "requires": [],
+    "place_item": ["Wraith Flash"]
+  },
+  {
+    "name": "The Outcasts",
+    "region": "The Outcasts",
+    "category": [
+      "Quests"
+    ],
+    "requires": [],
+    "place_item": ["Poison"]
+  },
+  {
+    "name": "Climbing the Ranks",
+    "region": "Climbing the Ranks",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The One Truth",
+    "region": "The One Truth",
+    "category": [
+      "Quests"
+    ],
+    "requires": [],
+    "place_item": ["Shadow Strike"]
+  },
+  {
+    "name": "The Warchief",
+    "region": "The Warchief",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Warchief Hunt",
+    "region": "Warchief Hunt",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Dark Monument",
+    "region": "The Dark Monument",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Black Captain",
+    "region": "The Black Captain",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Messenger",
+    "region": "The Messenger",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Queen of the Shore",
+    "region": "Queen of the Shore",
+    "category": [
+      "Quests"
+    ],
+    "requires": [],
+    "place_item": ["Brand"]
+  },
+  {
+    "name": "Big Game",
+    "region": "Big Game",
+    "category": [
+      "Quests"
+    ],
+    "requires": [],
+    "place_item": ["Caragor Hunter"]
+  },
+  {
+    "name": "The Power of the Wraith",
+    "region": "The Power of the Wraith",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hunting Partners",
+    "region": "Hunting Partners",
+    "category": [
+      "Quests"
+    ],
+    "requires": [],
+    "place_item": ["Graug Hunter"]
+  },
+  {
+    "name": "The Cure",
+    "region": "The Cure",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Brand the Warchiefs",
+    "region": "Brand the Warchiefs",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Great White Graug",
+    "region": "The Great White Graug",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Rescue",
+    "region": "The Rescue",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lord of Mordor",
+    "region": "Lord of Mordor",
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mordor in Flames",
+    "region": "Mordor in Flames",
+    "victory": true,
+    "category": [
+      "Quests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Udun Foothills Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Udun Foothills Forge Tower",
+    "region": "Prologue",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Black Road Forge Tower",
+    "region": "Prologue",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Southern Udun Pass Forge Tower",
+    "region": "Prologue",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Udun Crossing Forge Tower",
+    "region": "Prologue",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Durthang Outskirts Forge Tower",
+    "region": "Prologue",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Barrows of Udun Forge Tower",
+    "region": "Prologue",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harad Basin Forge Tower",
+    "region": "The Messenger",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cab-Gwanath Bluff Forge Tower",
+    "region": "The Messenger",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fern Outskirts Forge Tower",
+    "region": "The Messenger",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fort Morn Forge Tower",
+    "region": "The Messenger",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tirith Mesas Forge Tower",
+    "region": "The Messenger",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cape of Nurn Forge Tower",
+    "region": "The Messenger",
+    "category": [
+      "Forge Towers"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Black Gate East Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "The Black Gate North-West Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "The Black Gate South-West Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "The Black Gate Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "The Mithril Blade",
+    "region": "Prologue",
+    "category": [
+      "Dagger Legends"
+    ],
+    "requires": ["Dagger Legends"]
+  },
+  {
+    "name": "Udun Foothills Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Barrows of Udun Overlooking Brdige Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Barrows of Udun Cave Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Barrows of Udun East Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Barrows of Udun West Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Barrows of Udun Center Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Swift Mercy",
+    "region": "Prologue",
+    "category": [
+      "Bow Legends"
+    ],
+    "requires": ["Bow Legends"]
+  },
+  {
+    "name": "The Fell Beast",
+    "region": "Prologue",
+    "category": [
+      "Sword Legends"
+    ],
+    "requires": "|Sword Legends| AND |Ride Caragors|"
+  },
+  {
+    "name": "Durthang Keep Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Durthang West Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Durthang Outskirts Under Bridge Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Durthang Outskirts Cell Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Durthang Keep Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Durthang Outskirts Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Durthang Wastes Cave Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Cutting the Lines",
+    "region": "Prologue",
+    "category": [
+      "Sword Legends"
+    ],
+    "requires": "|Sword Legends| AND |Execution|"
+  },
+  {
+    "name": "Clear the Skies",
+    "region": "Prologue",
+    "category": [
+      "Dagger Legends"
+    ],
+    "requires": ["Dagger Legends"]
+  },
+  {
+    "name": "Shadows Under Siege",
+    "region": "Prologue",
+    "category": [
+      "Bow Legends"
+    ],
+    "requires": "|Bow Legends| AND |Detonate|"
+  },
+  {
+    "name": "Nameless Things",
+    "region": "Prologue",
+    "category": [
+      "Sword Legends"
+    ],
+    "requires": "|Sword Legends| AND |Wraith Flash|"
+  },
+  {
+    "name": "Udun Crossing Cave Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Udun Crossing Under Bridge Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Udun Crossing Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "The Storm of War",
+    "region": "Prologue",
+    "category": [
+      "Bow Legends"
+    ],
+    "requires": "|Bow Legends| AND |Ride Caragors|"
+  },
+  {
+    "name": "The Wraith",
+    "region": "Prologue",
+    "category": [
+      "Dagger Legends"
+    ],
+    "requires": "|Dagger Legends| AND |Strike From Above|" 
+  },
+  {
+    "name": "West Garrison West Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "West Garrison East Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "West Garrison North Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "West Garrison South Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Deathly Whisper",
+    "region": "Prologue",
+    "category": [
+      "Dagger Legends"
+    ],
+    "requires": ["Dagger Legends"]
+  },
+  {
+    "name": "East Garrison Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Southern Udun Pass West Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Southern Udun Pass East Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Southern Udun Pass Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "The Eye of Vengeance",
+    "region": "Prologue",
+    "category": [
+      "Bow Legends"
+    ],
+    "requires": ["Bow Legends"]
+  },
+  {
+    "name": "Arise",
+    "region": "Prologue",
+    "category": [
+      "Sword Legends"
+    ],
+    "requires": "|Sword Legends| AND |Stealth Drain| AND |Combat Drain|"
+  },
+  {
+    "name": "Into the Pit",
+    "region": "Prologue",
+    "category": [
+      "Sword Legends"
+    ],
+    "requires": "|Sword Legends| AND |Execution|"
+  },
+  {
+    "name": "Uruk Proving Grounds Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Uruk's Hollow Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Uruk's Hollow East Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Uruk's Hollow West Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Display of Power",
+    "region": "Prologue",
+    "category": [
+      "Dagger Legends"
+    ],
+    "requires": "|Dagger Legends| AND |Brutalize| AND |Strike From Above|"
+  },
+  {
+    "name": "A Elbereth Gilthoniel",
+    "region": "Prologue",
+    "category": [
+      "Bow Legends"
+    ],
+    "requires": ["Bow Legends"]
+  },
+  {
+    "name": "The Black Road Artifact",
+    "region": "Prologue",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "The Black Road Ithildin",
+    "region": "Prologue",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "The Fallen",
+    "region": "The Slaver",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "Shattered",
+    "region": "The Slaver",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "Resistance",
+    "region": "The Slaver",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "Hold Your Tongue",
+    "region": "The Slaver",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "Unleashed",
+    "region": "The Outcasts",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "Over the Edge",
+    "region": "The Outcasts",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": "|Outcast Rescue Missions| AND |Brutalize| AND |Strike From Above|"
+  },
+  {
+    "name": "Worked to Death",
+    "region": "The Outcasts",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "Drink Up",
+    "region": "The Outcasts",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": "|Outcast Rescue Missions| AND |Poison|"
+  },
+  {
+    "name": "Venom",
+    "region": "The Outcasts",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": "|Outcast Rescue Missions| AND |Brutalize| AND |Strike From Above| AND |Poison|"
+  },
+  {
+    "name": "Borrowed Blades",
+    "region": "The Outcasts",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": "|Outcast Rescue Missions| AND |Brutalize| AND |Strike From Above| AND |Poison|"
+  },
+  {
+    "name": "The Watcher",
+    "region": "The Outcasts",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": "|Outcast Rescue Missions| AND |Brutalize| AND |Strike From Above| AND |Poison|"
+  },
+  {
+    "name": "The Uprising",
+    "region": "The Outcasts",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": "|Outcast Rescue Missions| AND |Brutalize| AND |Strike From Above| AND |Poison|"
+  },
+  {
+    "name": "The Name of Power",
+    "region": "The Messenger",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "The Evil Eye",
+    "region": "The Messenger",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "The Hunger",
+    "region": "The Messenger",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "Unchained",
+    "region": "The Messenger",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "Unbroken",
+    "region": "The Messenger",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "Last Hope",
+    "region": "The Messenger",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "In the Flesh",
+    "region": "The Messenger",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "The Stand",
+    "region": "Queen of the Shore",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": "|Outcast Rescue Missions| AND |Stealth Drain| AND |Brand|"
+  },
+  {
+    "name": "Light in the Darkness",
+    "region": "Queen of the Shore",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "Nowhere to Hide",
+    "region": "Queen of the Shore",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "Weapons of War",
+    "region": "Queen of the Shore",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": ["Outcast Rescue Missions"]
+  },
+  {
+    "name": "To Freedom",
+    "region": "Queen of the Shore",
+    "category": [
+      "Outcast Rescue Mission"
+    ],
+    "requires": "|Outcast Rescue Missions| AND |Stealth Drain| AND |Brand|"
+  },
+  {
+    "name": "Harad Basin Under Bridge Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Harad Basin Tower Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Harad Basin Under Bridge Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Harad Basin Center Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Harad Basin Cave Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Harad Basin Cave Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Cab-Gwanath Bluff Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "The Spirit of Fire",
+    "region": "The Messenger",
+    "category": [
+      "Bow Legends"
+    ],
+    "requires": "|Bow Legends| AND |Detonate| AND |Fire Arrow|"
+  },
+  {
+    "name": "The Darkness Within",
+    "region": "Queen of the Shore",
+    "category": [
+      "Dagger Legends"
+    ],
+    "requires": "|Dagger Legends| AND |Brand|"
+  },
+  {
+    "name": "Bane of Shadow",
+    "region": "The Messenger",
+    "category": [
+      "Sword Legends"
+    ],
+    "requires": ["Sword Legends"]
+  },
+  {
+    "name": "They Shall Not Pass",
+    "region": "The Messenger",
+    "category": [
+      "Sword Legends"
+    ],
+    "requires": ["Sword Legends"]
+  },
+  {
+    "name": "Tol Crossing Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Maw of Hope Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Maw of Hope East Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Maw of Hope West Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Executioner's Watch Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Executioner's Watch Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Watcher's Landing Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Cape of Nurn Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Nurn Peninsula Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Nurn Peninsula Island Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Nurn Peninsula Cave Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "The Red Tide",
+    "region": "The Messenger",
+    "category": [
+      "Sword Legends"
+    ],
+    "requires": ["Sword Legends"]
+  },
+  {
+    "name": "Jaws of Steel",
+    "region": "The Messenger",
+    "category": [
+      "Bow Legends"
+    ],
+    "requires": ["Bow Legends"]
+  },
+  {
+    "name": "Shadow and Steel",
+    "region": "The Messenger",
+    "category": [
+      "Dagger Legends"
+    ],
+    "requires": ["Dagger Legends"]
+  },
+  {
+    "name": "Nurnen Fishary South (Rooftop) Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Nurnen Fishary North (Underneath) Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Celon Poros East Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Celon Poros West Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Celon Poros Cave Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Celon Poros Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Fatal Secrets",
+    "region": "The Messenger",
+    "category": [
+      "Dagger Legends"
+    ],
+    "requires": "|Dagger Legends| AND |Shadow Strike| AND |Lethal Shadow Strike|"
+  },
+  {
+    "name": "The Dark Rider",
+    "region": "The Messenger",
+    "category": [
+      "Sword Legends"
+    ],
+    "requires": "|Sword Legends| AND |Ride Caragors|"
+  },
+  {
+    "name": "Tirith Mesas West Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Tirith Mesas East Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Tirith Mesas Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Tirith Mesas Cave Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Ethir Poros Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Fort Morn South-West Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Fort Morn North Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Fort Morn South-West Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Fort Morn East Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Fort Morn North (Under Bridge) Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Power of the One",
+    "region": "Queen of the Shore",
+    "category": [
+      "Sword Legends"
+    ],
+    "requires": "|Sword Legends| AND |Stealth Drain| AND |Combat Drain| AND |Brand| AND |Dispatch|"
+  },
+  {
+    "name": "The Scouring of the Shadow",
+    "region": "The Messenger",
+    "category": [
+      "Dagger Legends"
+    ],
+    "requires": "|Dagger Legends| AND |Shadow Strike| AND |Lethal Shadow Strike|"
+  },
+  {
+    "name": "There Is No Escape",
+    "region": "The Messenger",
+    "category": [
+      "Bow Legends"
+    ],
+    "requires": "|Bow Legends| AND |Pin In Place|"
+  },
+  {
+    "name": "Shadow and Flame",
+    "region": "The Messenger",
+    "category": [
+      "Bow Legends"
+    ],
+    "requires": "|Bow Legends| AND |Detonate|"
+  },
+  {
+    "name": "Fern Outskirts Center Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Fern Outskirts Under Bridge Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "Fern Outskirts Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Thang Talath Cave Ithildin",
+    "region": "The Messenger",
+    "category": [
+      "Ithildin"
+    ],
+    "requires": ["Unlock Ithildin"]
+  },
+  {
+    "name": "Thang Talath Artifact",
+    "region": "The Messenger",
+    "category": [
+      "Artifacts"
+    ],
+    "requires": ["Unlock Artifacts"]
+  },
+  {
+    "name": "The Secret Flame",
+    "region": "The Messenger",
+    "category": [
+      "Bow Legends"
+    ],
+    "requires": "|Bow Legends| AND |Detonate|"
+  },
+  {
+    "name": "A Knife in the Dark",
+    "region": "Queen of the Shore",
+    "category": [
+      "Dagger Legends"
+    ],
+    "requires": "|Dagger Legends| AND |Brand| AND |Stealth Drain|"
+  },
+  {
+    "name": "Lord of the Hunt Prologue",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": ["Lord of the Hunt Unlock"]
+  },
+  {
+    "name": "Hard Basin Torvin's Journal",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Unlock Torvin's Journals|"
+  },
+  {
+    "name": "Hard Basin Cave Torvin's Journal",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Unlock Torvin's Journals|"
+  },
+  {
+    "name": "Cab-Gwanath Bluff Torvin's Journal",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Unlock Torvin's Journals|"
+  },
+  {
+    "name": "Thag Talath Cave Torvin's Journal",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Unlock Torvin's Journals|"
+  },
+  {
+    "name": "Fern Outskirts Torvin's Journal",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Unlock Torvin's Journals|"
+  },
+  {
+    "name": "Fort Morn Torvin's Journal",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Unlock Torvin's Journals|"
+  },
+  {
+    "name": "Tirith Mesas Cave Torvin's Journal",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Unlock Torvin's Journals|"
+  },
+  {
+    "name": "Celon Poros Torvin's Journal",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Unlock Torvin's Journals|"
+  },
+  {
+    "name": "Celon Poros Cave Torvin's Journal",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Unlock Torvin's Journals|"
+  },
+  {
+    "name": "Nurnen Peninsula Cave Torvin's Journal",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Unlock Torvin's Journals|"
+  },
+  {
+    "name": "Swift Tracking",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": ["Lord of the Hunt Unlock"]
+  },
+  {
+    "name": "Unwarrented Aggression",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": ["Lord of the Hunt Unlock"]
+  },
+  {
+    "name": "Matron's Rising",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": ["Lord of the Hunt Unlock"]
+  },
+  {
+    "name": "Hypocritical Oath",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Beastmaster Warchief Quests|"
+  },
+  {
+    "name": "From Hunter to Hunted",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Legends of the Hunter|"
+  },
+  {
+    "name": "Heaving Rampage",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Legends of the Hunter|"
+  },
+  {
+    "name": "Belching Monstrosity",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Legends of the Hunter|"
+  },
+  {
+    "name": "A Feast of Flesh",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Legends of the Hunter| AND |Beastmaster Warchief Quests|"
+  },
+  {
+    "name": "Beast Master",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Legends of the Hunter| AND |Beastmaster Warchief Quests|"
+  },
+  {
+    "name": "Call of the Caragath",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Beastmaster Warchief Quests|"
+  },
+  {
+    "name": "Stronghold Uprising",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Beastmaster Warchief Quests|"
+  },
+  {
+    "name": "Blasted Uruks!",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Beastmaster Warchief Quests|"
+  },
+  {
+    "name": "No Rest For The Wicked",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Beastmaster Warchief Quests|"
+  },
+  {
+    "name": "Homewrecker",
+    "category": [
+      "Lord of the Hunt"
+    ],
+    "requires": "|Lord of the Hunt Unlock| AND |Beastmaster Warchief Quests|"
+  },
+  {
+    "name": "The Bright Lord Prologue",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": ["The Bright Lord Unlock"]
+  },
+  {
+    "name": "Petty Minds",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": ["The Bright Lord Unlock"]
+  },
+  {
+    "name": "Tools for the Task",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": ["The Bright Lord Unlock"]
+  },
+  {
+    "name": "Press the Advantage",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": ["The Bright Lord Unlock"]
+  },
+  {
+    "name": "Barrows of Udun War Letter",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |Unlock War Letters|"
+  },
+  {
+    "name": "Durthang Wastes War Letter",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |Unlock War Letters|"
+  },
+  {
+    "name": "The Black Gate War Letter",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |Unlock War Letters|"
+  },
+  {
+    "name": "Udun Crossing War Letter",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |Unlock War Letters|"
+  },
+  {
+    "name": "East Garrison War Letter",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |Unlock War Letters|"
+  },
+  {
+    "name": "Uruk's Hollow War Letter",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |Unlock War Letters|"
+  },
+  {
+    "name": "Servants in Chains",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |Stronghold Captures|"
+  },
+  {
+    "name": "Hearts and Minds",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |Stronghold Captures|"
+  },
+  {
+    "name": "Lawless Disorder",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |Stronghold Captures|"
+  },
+  {
+    "name": "The Dark Lord Answers",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |Stronghold Captures|"
+  },
+  {
+    "name": "The True Lord of the Rings",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |Stronghold Captures|"
+  },
+  {
+    "name": "Don't Shoot the Messenger",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |One Ring Missions|"
+  },
+  {
+    "name": "Shoddy Construction",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |One Ring Missions|"
+  },
+  {
+    "name": "Strength in Numbers",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |One Ring Missions|"
+  },
+  {
+    "name": "Silver Persuasion",
+    "category": [
+      "The Bright Lord"
+    ],
+    "requires": "|The Bright Lord Unlock| AND |One Ring Missions|"
+  },
+  {
+    "name": "Test of Speed",
+    "category": [
+      "Trials of War"
+    ],
+    "requires": ["Test of Speed"]
+  },
+  {
+    "name": "Test of Power",
+    "category": [
+      "Trials of War"
+    ],
+    "requires": ["Test of Power"]
+  },
+  {
+    "name": "Test of Wisdom",
+    "category": [
+      "Trials of War"
+    ],
+    "requires": ["Test of Wisdom"]
+  },
+  {
+    "name": "Endless Challenge",
+    "category": [
+      "Trials of War"
+    ],
+    "requires": ["Endless Challenge"]
+  },
+  {
+    "name": "Test of the Wild",
+    "category": [
+      "Trials of War", "Lord of the Hunt"
+    ],
+    "requires": ["Test of the Wild"]
+  },
+  {
+    "name": "Test of the Ring",
+    "category": [
+      "Trials of War", "The Bright Lord"
+    ],
+    "requires": ["Test of the Ring"]
+  },
+  {
+    "name": "Test of Defiance",
+    "category": [
+      "Trials of War"
+    ],
+    "requires": ["Test of Defiance"]
+  },
+  {
+    "name": "Survival Challenge 1 (2x Niphredil)",
+    "category": [
+      "Survival Challenges"
+    ],
+    "requires": ["Survival Challenges"]
+  },
+  {
+    "name": "Survival Challenge 2 (3x Pipeweed, 2x Azuradan)",
+    "category": [
+      "Survival Challenges"
+    ],
+    "requires": ["Survival Challenges"]
+  },
+  {
+    "name": "Survival Challenge 3 (2x Remmenthond, 2x Azuradan)",
+    "category": [
+      "Survival Challenges"
+    ],
+    "requires": ["Survival Challenges"]
+  },
+  {
+    "name": "Survival Challenge 4 (2x Niphredil, 2x Lothorond, 1x Azuradan)",
+    "category": [
+      "Survival Challenges"
+    ],
+    "requires": ["Survival Challenges"]
+  },
+  {
+    "name": "Survival Challenge 5 (4x Blue Milk, 2x Mallos)",
+    "category": [
+      "Survival Challenges"
+    ],
+    "requires": ["Survival Challenges"]
+  },
+  {
+    "name": "Survival Challenge 6 (3x Earthbred, 3x Elgaran)",
+    "category": [
+      "Survival Challenges"
+    ],
+    "requires": ["Survival Challenges"]
+  },
+  {
+    "name": "Survival Challenge 7 (2x Gwinuial, 4x Alfirin)",
+    "region": "The Messenger",
+    "category": [
+      "Survival Challenges"
+    ],
+    "requires": ["Survival Challenges"]
+  },
+  {
+    "name": "Survival Challenge 8 (2x Naugrimbas, 3x Carandol, 2x Orchamarth)",
+    "region": "The Messenger",
+    "category": [
+      "Survival Challenges"
+    ],
+    "requires": ["Survival Challenges"]
+  },
+  {
+    "name": "Survival Challenge 9 (7x Athelas)",
+    "region": "The Messenger",
+    "category": [
+      "Survival Challenges"
+    ],
+    "requires": ["Survival Challenges"]
+  },
+  {
+    "name": "Survival Challenge 10 (3x Blue Milk, 2x Elgaran, 2x Gwinuial)",
+    "region": "The Messenger",
+    "category": [
+      "Survival Challenges"
+    ],
+    "requires": ["Survival Challenges"]
+  },
+  {
+    "name": "Hunting Challenge 1 (Kill 3 Spiders)",
+    "category": [
+      "Hunting Challenges"
+    ],
+    "requires": ["Hunting Challenges"]
+  },
+  {
+    "name": "Hunting Challenge 2 (Kill 5 Flying Creatures)",
+    "category": [
+      "Hunting Challenges"
+    ],
+    "requires": ["Hunting Challenges"]
+  },
+  {
+    "name": "Hunting Challenge 3 (Kill 3 Caragors)",
+    "category": [
+      "Hunting Challenges"
+    ],
+    "requires": ["Hunting Challenges"]
+  },
+  {
+    "name": "Hunting Challenge 4 (Kill 4 Rats)",
+    "category": [
+      "Hunting Challenges"
+    ],
+    "requires": ["Hunting Challenges"]
+  },
+  {
+    "name": "Hunting Challenge 5 (Kill 5 Ghuls)",
+    "region": "Shattered Memories",
+    "category": [
+      "Hunting Challenges"
+    ],
+    "requires": ["Hunting Challenges"]
+  },
+  {
+    "name": "Hunting Challenge 6 (Kill 3 Bats)",
+    "region": "Shattered Memories",
+    "category": [
+      "Hunting Challenges"
+    ],
+    "requires": ["Hunting Challenges"]
+  },
+  {
+    "name": "Hunting Challenge 7 (Kill 1 Graug)",
+    "region": "Hunting Partners",
+    "category": [
+      "Hunting Challenges"
+    ],
+    "requires": ["Hunting Challenges"]
+  },
+  {
+    "name": "Hunting Challenge 8 (Kill 1 Dire Caragor)",
+    "region": "Hunting Partners",
+    "category": [
+      "Hunting Challenges"
+    ],
+    "requires": ["Hunting Challenges"]
+  },
+  {
+    "name": "Hunting Challenge 9 (Kill 1 Ghul Matron)",
+    "region": "Hunting Partners",
+    "category": [
+      "Hunting Challenges"
+    ],
+    "requires": ["Hunting Challenges"]
+  },
+  {
+    "name": "Hunting Challenge 10 (Kill 1 Horned Graug)",
+    "region": "The Great White Graug",
+    "category": [
+      "Hunting Challenges"
+    ],
+    "requires": ["Hunting Challenges"]
+  }
+]

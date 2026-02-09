@@ -1,0 +1,147 @@
+{
+  "Prologue": {
+    "starting": true,
+    "connects_to": [
+      "The Slaver",
+      "The Spirit of Mordor"
+    ],
+    "requires": []
+  },
+  "The Slaver": {
+    "connects_to": [
+      "An Interested Party"
+    ],
+    "requires": "|Progressive Main Mission:1|"
+  },
+  "An Interested Party": {
+    "connects_to": [
+      "Shattered Memories",
+      "The Outcasts",
+      "Climbing the Ranks"
+    ],
+    "requires": "|Progressive Main Mission:2|"
+  },
+  "The Spirit of Mordor": {
+    "connects_to": [
+      "Shattered Memories",
+      "The Outcasts",
+      "Climbing the Ranks"
+    ],
+    "requires": "|Progressive Main Mission:1|"
+  },
+  "Shattered Memories": {
+    "connects_to": [
+      "The One Truth"
+    ],
+    "requires": "|Progressive Main Mission:3|"
+  },
+  "The Outcasts": {
+    "connects_to": [
+      "The Dark Monument"
+    ],
+    "requires": "|Progressive Main Mission:4|"
+  },
+  "Climbing the Ranks": {
+    "connects_to": [
+      "The Warchief",
+      "Warchief Hunt"
+    ],
+    "requires": "|Progressive Main Mission:3|"
+  },
+  "The One Truth": {
+    "connects_to": [
+      "The Black Captain"
+    ],
+    "requires": "|Progressive Main Mission:5|"
+  },
+  "The Warchief": {
+    "connects_to": [
+      "The Dark Monument"
+    ],
+    "requires": "|Progressive Main Mission:5|"
+  },
+  "Warchief Hunt": {
+    "connects_to": [
+      "The Dark Monument"
+    ],
+    "requires": "|Progressive Main Mission:6|"
+  },
+  "The Dark Monument": {
+    "connects_to": [
+      "The Black Captain"
+    ],
+    "requires": "|Progressive Main Mission:7|"
+  },
+  "The Black Captain": {
+    "connects_to": [
+      "The Messenger"
+    ],
+    "requires": "|The Black Captain| AND |Progressive Main Mission:7|"
+  },
+  "The Messenger": {
+    "connects_to": [
+      "Queen of the Shore",
+      "Big Game"
+    ],
+    "requires": "|The Black Captain| AND |Progressive Main Mission:8|"
+  },
+  "Queen of the Shore": {
+    "connects_to": [
+      "The Power of the Wraith"
+    ],
+    "requires": "|The Black Captain| AND |Progressive Main Mission:9|"
+  },
+  "Big Game": {
+    "connects_to": [
+      "Hunting Partners"
+    ],
+    "requires": "|The Black Captain| AND |Progressive Main Mission:9|"
+  },
+  "The Power of the Wraith": {
+    "connects_to": [
+      "The Cure",
+      "Brand the Warchiefs"
+    ],
+    "requires": "|The Black Captain| AND |Progressive Main Mission:10|"
+  },
+  "Hunting Partners": {
+    "connects_to": [
+      "The Great White Graug"
+    ],
+    "requires": "|The Black Captain| AND |Progressive Main Mission:10|"
+  },
+  "The Cure": {
+    "connects_to": [
+      "The Rescue"
+    ],
+    "requires": "|The Black Captain| AND |Progressive Main Mission:11|"
+  },
+  "Brand the Warchiefs": {
+    "connects_to": [
+      "Lord of Mordor"
+    ],
+    "requires": "|The Black Captain| AND |Progressive Main Mission:12|"
+  },
+  "The Great White Graug": {
+    "connects_to": [
+      "Lord of Mordor"
+    ],
+    "requires": "|The Black Captain| AND |Progressive Main Mission:11|"
+  },
+  "The Rescue": {
+    "connects_to": [
+      "Lord of Mordor"
+    ],
+    "requires": "|The Black Captain| AND |Progressive Main Mission:13|"
+  },
+  "Lord of Mordor": {
+    "connects_to": [
+      "Mordor in Flames"
+    ],
+    "requires": "|The Black Captain| AND |Progressive Main Mission:14|"
+  },
+  "Mordor in Flames": {
+    "connects_to": [],
+    "requires": "|Mordor in Flames| AND |The Black Captain| AND |Progressive Main Mission:14|"
+  }
+}
